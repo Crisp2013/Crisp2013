@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+한글패치 작업 코드를 올리면 좋을텐데
+로컬로 작업 + 작업확경이 너무 오래됨(약 2년정도 됨)
++너무 정리 안됨(raw 파일 그대로 사용하는등)
+이것 때문에 귀찮아서 못할듯....
+
 <!--
 **Wintiger0222/wintiger0222** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
