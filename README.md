@@ -5,6 +5,8 @@
 +너무 정리 안됨(raw 파일 그대로 사용하는등)<br>
 이것 때문에 귀찮아서 못할듯....
 
+혹시 요청한다면 법적인 문제 없는 코드는 정리해서 올려볼지도?
+
 <!--
 **Wintiger0222/wintiger0222** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
