@@ -36,7 +36,7 @@
 * [Silhoua14](https://github.com/Wintiger0222/Silhoua14_Font) - 7x14 비트맵 폰트
 * [FE9ScriptDumper](https://github.com/Wintiger0222/FE9ScriptDumper) - 파이어 엠블렘 창염의 궤적/새벽의 여신 스크립트 덤프 툴
 * [Rec98](https://github.com/Wintiger0222/ReC98) - 동방프로젝트 구작 디컴파일 프로젝트(기여)
-* [SparseAccel]https://github.com/Wintiger0222/SparseAccel) - FPGA 
+* [SparseAccel](https://github.com/Wintiger0222/SparseAccel) - FPGA 
 
 <!--
 **Wintiger0222/wintiger0222** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
