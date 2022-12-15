@@ -38,6 +38,9 @@
 * [Rec98](https://github.com/Wintiger0222/ReC98) - 동방프로젝트 구작 디컴파일 프로젝트(기여)
 * [SparseAccel](https://github.com/Wintiger0222/SparseAccel) - FPGA 
 
+## Papers
+ * "HLS-based Efficient CNN Accelerator DesignSupporting Data Reuse" (WIP, 공저자)
+ * "AutoSparse: Automatic Search for Efficient Activation Sparsity-aware CNN Accelerator" (WIP, 공저자)
 <!--
 **Wintiger0222/wintiger0222** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
