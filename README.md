@@ -1,5 +1,5 @@
-## I'm WindowsTiger
-### Hi there 👋
+
+## Hi there 👋
 
 ## Activity (Korean Localization)
 * [GBA]리듬세상 어드밴스(Rhythm Tengoku)(2017) -  `Rom analyze`,`Translation`,`Editing`
