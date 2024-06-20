@@ -11,10 +11,9 @@
 * [GBC]포켓몬스터 크리스탈 버전(Pokémon Crystal Version)(2022) -  `Rom analyze`,`Editing`
 * [GBA]파이어 엠블렘 봉인의 검(Fire Emblem: The Binding Blade)(2022) -  `Rom analyze`,`Editing`
 * [NGC]파이어 엠블렘 창염의 궤적(Fire Emblem: Path of Radiance)(2022) -  `Rom analyze`,`Editing`
-* [GBC]젤다의 전설 이상한 나무열매 대지의 장/시공의 장(The Legend of Zelda: Oracle of Seasons/Oracle of Ages)(2022) -  `Rom analyze`,`Editing`
 * [GBC]포켓몬 피크로스(Pokémon Picross)(2022) -  `Rom analyze`,`Editing`
-* [Wii]파이어 엠블렘 새벽의 여신(Fire Emblem: Radiant Dawn)(WIP) -  `Rom analyze`,`Editing`
-* [SNES]파이어 엠블렘 트라키아 776(Fire Emblem: Thracia 776)(WIP) -  `Editing`
+* [Wii]파이어 엠블렘 새벽의 여신(Fire Emblem: Radiant Dawn) -  `Rom analyze`,`Editing`
+* [SNES]파이어 엠블렘 트라키아 776(Fire Emblem: Thracia 776) -  `Editing`
 
 ## Project
 * [GB108in1](https://github.com/Wintiger0222/GB108in1) - 게임보이 멀티카트 메뉴 디컴파일
